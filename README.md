@@ -11,4 +11,5 @@ This repo is for my proxy if i am not able to work somedays..
 
 ### Day : 01-09-2024
 - Starting my day now.
+- Today's goal is to work on the e-com website and make some progress.
 
