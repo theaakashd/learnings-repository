@@ -8,3 +8,7 @@ This repo is for my proxy if i am not able to work somedays..
 - Not so much i wake up and just reading manwa for the day
 - Helped mom in kitchen
 - About to start my project now
+
+### Day : 01-09-2024
+- Starting my day now.
+
