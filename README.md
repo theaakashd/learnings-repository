@@ -10,6 +10,7 @@ This repo is for my proxy if i am not able to work somedays..
 - About to start my project now
 
 ### Day : 01-09-2024
+- `Good Morning` to myself ✨.
 - Starting my day now.
 - Today's goal is to work on the e-com website and make some progress.
 
