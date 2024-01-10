@@ -17,4 +17,4 @@ This repo is for my proxy if i am not able to work somedays..
 ### Day : 01-10-2024
 - `Good Afternoon` to myself 💫.
 - Starting my day now.
-
+- I guess that's all for today i worked on the e-com project today.
