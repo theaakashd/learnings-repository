@@ -22,3 +22,4 @@ This repo is for my proxy if i am not able to work somedays..
 - `Good Morning` to myself 💚.
 - On leave today. so I don't know when i will get some time.
 - So i came back from uncle's house around 4pm.
+- No energy after that i am busy thinking about a project so didn't able to do anything.
