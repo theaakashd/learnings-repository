@@ -19,5 +19,5 @@ This repo is for my proxy if i am not able to work somedays..
 - Starting my day now.
 - I guess that's all for today i worked on the e-com project today.
 ### Day : 01-11-2024
-    - `Good Morning` to myself 💚.
-    - On leave today. so I don't know when i will get some time.
+- `Good Morning` to myself 💚.
+- On leave today. so I don't know when i will get some time.
