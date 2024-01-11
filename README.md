@@ -21,3 +21,4 @@ This repo is for my proxy if i am not able to work somedays..
 ### Day : 01-11-2024
 - `Good Morning` to myself 💚.
 - On leave today. so I don't know when i will get some time.
+- So i came back from uncle's house around 4pm.
