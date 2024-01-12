@@ -28,3 +28,4 @@ try to done it.
 ### Day : 01-12-2024
 - `Good evening` to me.
 - Not a productive day to be honest.
+- Just starting my day wtf i am even doing i don't know.
