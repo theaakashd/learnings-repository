@@ -25,3 +25,6 @@ This repo is for my proxy if i am not able to work somedays..
 - No energy after that i am busy thinking about a project so didn't able to do anything.
 - Tomorrow i will work on my E-com project and hopefully 
 try to done it.
+### Day : 01-12-2024
+- `Good evening` to me.
+- Not a productive day to be honest.
