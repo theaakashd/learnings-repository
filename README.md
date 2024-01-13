@@ -29,3 +29,6 @@ try to done it.
 - `Good evening` to me.
 - Not a productive day to be honest.
 - Just starting my day wtf i am even doing i don't know.
+### Day : 01-13-2024
+- `Good Morning` 💚.
+- Starting the day now, Let's be focused today.
