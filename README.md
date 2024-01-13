@@ -32,3 +32,4 @@ try to done it.
 ### Day : 01-13-2024
 - `Good Morning` 💚.
 - Starting the day now, Let's be focused today.
+- Done with today going to sleep.
