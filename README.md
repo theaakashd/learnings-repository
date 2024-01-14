@@ -33,3 +33,6 @@ try to done it.
 - `Good Morning` 💚.
 - Starting the day now, Let's be focused today.
 - Done with today going to sleep.
+### Day : 01-14-2024
+- `Good Evening` 💚.
+- Starting the day now, Going through a lot and not able to focus.
