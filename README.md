@@ -36,3 +36,6 @@ try to done it.
 ### Day : 01-14-2024
 - `Good Evening` 💚.
 - Starting the day now, Going through a lot and not able to focus.
+### Day : 01-15-2024
+- `Good Evening` to myself 💌.
+- Starting the day now, let's do something today!.
