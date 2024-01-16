@@ -42,3 +42,4 @@ try to done it.
 ### Day : 01-16-2024
 - `Good Evening` to myself 💌.
 - Starting the day now.
+- Setting up file server using ubuntu.
