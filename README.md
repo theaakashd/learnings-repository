@@ -42,8 +42,9 @@ try to done it.
 ### Day : 01-16-2024
 - `Good Evening` to myself 💌.
 - Starting the day now.
-- Again wasted the whole day behind linux .
 - Setting up file server using ubuntu.
 ### Day : 01-17-2024
 - `Good Morning` to myself 💙.
 - Starting the day now.
+- Again wasted the whole day behind linux.
+- But at the end we didn't got anything.
