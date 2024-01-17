@@ -48,3 +48,4 @@ try to done it.
 - Starting the day now.
 - Again wasted the whole day behind linux.
 - But at the end we didn't got anything.
+- My wifi is still not fixed.
