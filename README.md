@@ -43,3 +43,6 @@ try to done it.
 - `Good Evening` to myself 💌.
 - Starting the day now.
 - Setting up file server using ubuntu.
+### Day : 01-17-2024
+- `Good Morning` to myself 💙.
+- Starting the day now.
