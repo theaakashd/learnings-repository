@@ -49,3 +49,7 @@ try to done it.
 - Again wasted the whole day behind linux.
 - But at the end we didn't got anything.
 - My wifi is still not fixed.
+### Day : 01-18-2024
+- `Good Evening` to myself 💙.
+- Starting the day now.
+- Finally able to run the linux GUI of kali wsl.
