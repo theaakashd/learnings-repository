@@ -53,3 +53,4 @@ try to done it.
 - `Good Evening` to myself 💙.
 - Starting the day now.
 - Finally able to run the linux GUI of kali wsl.
+- For the personal project there is no progress again!.
