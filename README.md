@@ -54,3 +54,4 @@ try to done it.
 - Starting the day now.
 - Finally able to run the linux GUI of kali wsl.
 - For the personal project there is no progress again!.
+- I have to focus on my study but somehow i am not able to.
