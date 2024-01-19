@@ -55,3 +55,6 @@ try to done it.
 - Finally able to run the linux GUI of kali wsl.
 - For the personal project there is no progress again!.
 - I have to focus on my study but somehow i am not able to.
+### Day : 01-19-2024
+- `Good Morning` to myself 🥗.
+- Starting the day now.
