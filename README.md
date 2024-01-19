@@ -58,3 +58,4 @@ try to done it.
 ### Day : 01-19-2024
 - `Good Morning` to myself 🥗.
 - Starting the day now.
+- Again with the linux stuff can't sleep without fixing it.
