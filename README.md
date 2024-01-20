@@ -59,3 +59,6 @@ try to done it.
 - `Good Morning` to myself 🥗.
 - Starting the day now.
 - Again with the linux stuff can't sleep without fixing it.
+### Day : 01-20-2024
+- `Good Evening` to myself 💙.
+- Starting the day now.
