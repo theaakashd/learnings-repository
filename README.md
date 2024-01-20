@@ -62,3 +62,4 @@ try to done it.
 ### Day : 01-20-2024
 - `Good Evening` to myself 💙.
 - Starting the day now.
+- Working on remote desktop.
