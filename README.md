@@ -63,3 +63,4 @@ try to done it.
 - `Good Evening` to myself 💙.
 - Starting the day now.
 - Working on remote desktop.
+- Downloaded the course and uploaded to mega.
