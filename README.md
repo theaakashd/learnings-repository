@@ -69,3 +69,4 @@ try to done it.
 - Starting the day now.
 - started doing excersise from today.
 - 20 pushups only.
+- installed wsa in windows.
