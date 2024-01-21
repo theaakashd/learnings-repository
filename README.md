@@ -67,3 +67,4 @@ try to done it.
 ### Day : 01-21-2024
 - `Good Evening` to myself 💙.
 - Starting the day now.
+- started doing excersise from today.
