@@ -68,3 +68,4 @@ try to done it.
 - `Good Evening` to myself 💙.
 - Starting the day now.
 - started doing excersise from today.
+- 20 pushups only.
