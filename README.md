@@ -64,3 +64,6 @@ try to done it.
 - Starting the day now.
 - Working on remote desktop.
 - Downloaded the course and uploaded to mega.
+### Day : 01-21-2024
+- `Good Evening` to myself 💙.
+- Starting the day now.
