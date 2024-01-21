@@ -70,3 +70,4 @@ try to done it.
 - started doing excersise from today.
 - 20 pushups only.
 - installed wsa in windows.
+- Installed genshin impact 80GB.
