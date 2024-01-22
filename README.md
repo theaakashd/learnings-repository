@@ -75,3 +75,4 @@ try to done it.
 - `Good Evening` to myself 💙.
 - Starting the day now.
 - Didn't did anything today again.
+- Goes to market and come back.
