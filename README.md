@@ -76,3 +76,4 @@ try to done it.
 - Starting the day now.
 - Didn't did anything today again.
 - Goes to market and come back.
+- got the rdp up and running with the proton mail.
