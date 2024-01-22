@@ -71,3 +71,6 @@ try to done it.
 - 20 pushups only.
 - installed wsa in windows.
 - Installed genshin impact 80GB.
+### Day : 01-22-2024
+- `Good Evening` to myself 💙.
+- Starting the day now.
