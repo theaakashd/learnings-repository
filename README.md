@@ -74,3 +74,4 @@ try to done it.
 ### Day : 01-22-2024
 - `Good Evening` to myself 💙.
 - Starting the day now.
+- Didn't did anything today again.
