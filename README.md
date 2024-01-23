@@ -79,3 +79,4 @@ try to done it.
 - got the rdp up and running with the proton mail.
 ### Day : 01-23-2024
 - Didn't did anything today man.
+- So much time wasted with shit linux stuff.
