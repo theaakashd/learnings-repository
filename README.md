@@ -77,3 +77,5 @@ try to done it.
 - Didn't did anything today again.
 - Goes to market and come back.
 - got the rdp up and running with the proton mail.
+### Day : 01-23-2024
+- Didn't did anything today man.
