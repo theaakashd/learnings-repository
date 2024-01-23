@@ -80,3 +80,4 @@ try to done it.
 ### Day : 01-23-2024
 - Didn't did anything today man.
 - So much time wasted with shit linux stuff.
+- Installed Virtual machine today and installed kali linux.
