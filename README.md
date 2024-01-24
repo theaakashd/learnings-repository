@@ -81,3 +81,5 @@ try to done it.
 - Didn't did anything today man.
 - So much time wasted with shit linux stuff.
 - Installed Virtual machine today and installed kali linux.
+### Day : 01-24-2024
+- Didn't did anything today man.
