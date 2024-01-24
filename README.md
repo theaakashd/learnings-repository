@@ -85,3 +85,4 @@ try to done it.
 ### Day : 01-24-2024
 - Didn't did anything today man.
 - Upload videos on YT.
+- I will come back and try to study but just give me few more days i will start.
