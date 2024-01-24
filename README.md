@@ -84,3 +84,4 @@ try to done it.
 - Installed Virtual machine today and installed kali linux.
 ### Day : 01-24-2024
 - Didn't did anything today man.
+- Upload videos on YT.
