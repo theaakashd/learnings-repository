@@ -90,3 +90,4 @@ try to done it.
 - Didn't did anything today man.
 - Uploaded videos on yt.
 - no electricity almost all day.
+- Try to install android on vmware but it was so slow.
