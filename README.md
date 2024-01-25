@@ -89,3 +89,4 @@ try to done it.
 ### Day : 01-25-2024
 - Didn't did anything today man.
 - Uploaded videos on yt.
+- no electricity almost all day.
