@@ -91,3 +91,6 @@ try to done it.
 - Uploaded videos on yt.
 - no electricity almost all day.
 - Try to install android on vmware but it was so slow.
+### Day : 01-26-2024
+- `Happy Republic Day` to everyone.
+- I thought to start the coding as soon as wake up but again i didn't did anything today also.
