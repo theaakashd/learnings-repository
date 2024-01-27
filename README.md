@@ -98,3 +98,4 @@ try to done it.
 ### Day : 01-27-2024
 - Almost about to end the day.
 - Not much no progress again today.
+- Installed CloudReady OS which is like chrome os but open source.
