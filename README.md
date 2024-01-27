@@ -97,3 +97,4 @@ try to done it.
 - I just open my project e-com and let's see where i left.
 ### Day : 01-27-2024
 - Almost about to end the day.
+- Not much no progress again today.
