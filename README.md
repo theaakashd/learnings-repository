@@ -95,3 +95,5 @@ try to done it.
 - `Happy Republic Day` to everyone.
 - I thought to start the coding as soon as wake up but again i didn't did anything today also.
 - I just open my project e-com and let's see where i left.
+### Day : 01-27-2024
+- Almost about to end the day.
