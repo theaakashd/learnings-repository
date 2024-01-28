@@ -101,3 +101,4 @@ try to done it.
 - Installed CloudReady OS which is like chrome os but open source.
 ### Day : 01-28-2024
 - Powercut all day.
+- About to go sleep.
