@@ -102,3 +102,4 @@ try to done it.
 ### Day : 01-28-2024
 - Powercut all day.
 - About to go sleep.
+- wtf i am doing.
