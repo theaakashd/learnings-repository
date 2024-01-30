@@ -105,3 +105,5 @@ try to done it.
 - wtf i am doing.
 ### Day : 01-29-2024
 - Hey alll. I will do work today.
+### Day : 01-30-2024
+- Hey alll. Did a edit today and a little code.
