@@ -109,3 +109,4 @@ try to done it.
 - Hey alll. Did a edit today and a little code.
 ### Day : 01-31-2024
 - About to sleep.
+- Laptop is fucked up so tomorrow have to fix all stuff.
