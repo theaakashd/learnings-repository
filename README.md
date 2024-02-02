@@ -111,3 +111,6 @@ try to done it.
 - About to sleep.
 - Laptop is fucked up so tomorrow have to fix all stuff.
 - Btw the 1st month of 2024 is finished from tomorrow we have to work.
+### Day : 02-02-2024
+- About to sleep.
+
