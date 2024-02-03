@@ -116,4 +116,5 @@ try to done it.
 - fuck the day .
 ### Day : 02-03-2024
 - Good night.
+- Work for tomorrow, customize the cli and study 
 
