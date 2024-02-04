@@ -119,4 +119,5 @@ try to done it.
 - Work for tomorrow, customize the cli and study
 ### Day : 02-03-2-2024
 - Good Morning to all.
+- First i will go and customize the cli for ubuntu wsl.
 
