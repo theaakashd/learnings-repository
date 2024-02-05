@@ -122,4 +122,5 @@ try to done it.
 - First i will go and customize the cli for ubuntu wsl.
 ### Day : 02-05-2024
 - Wake up and what i did all day even i don't know.
+- But now i am going to sleep, Good night!.
 
