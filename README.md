@@ -117,7 +117,9 @@ try to done it.
 ### Day : 02-03-2024
 - Good night.
 - Work for tomorrow, customize the cli and study
-### Day : 02-03-2-2024
+### Day : 02-04-2-2024
 - Good Morning to all.
 - First i will go and customize the cli for ubuntu wsl.
+### Day : 02-05-2024
+- Wake up and what i did all day even i don't know.
 
