@@ -123,4 +123,5 @@ try to done it.
 ### Day : 02-05-2024
 - Wake up and what i did all day even i don't know.
 - But now i am going to sleep, Good night!.
-
+### Day : 02-06-2024
+- Such a boring day.
