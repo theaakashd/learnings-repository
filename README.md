@@ -130,3 +130,4 @@ try to done it.
 ### Day : 02-07-2024
 - Good evening to all.
 - I did said i will make some changes from today but i don't see what i did the whole day.
+- I know very well how i am wasting my time but still can't break the cycle.
