@@ -132,3 +132,6 @@ try to done it.
 - I did said i will make some changes from today but i don't see what i did the whole day.
 - I know very well how i am wasting my time but still can't break the cycle.
 - I need a partner so that i can break free from here. I wish!
+### Day : 02-08-2024
+- Good Morning ! ❤.
+- I am back to work.
