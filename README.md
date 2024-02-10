@@ -138,3 +138,5 @@ try to done it.
 ### Day : 02-09-2024
 - Just eat dinner and feeling so tired.
 - Did i did anything today ?.
+### Day : 02-10-2024
+- I was about to loose my streak today.
