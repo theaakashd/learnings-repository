@@ -140,3 +140,4 @@ try to done it.
 - Did i did anything today ?.
 ### Day : 02-10-2024
 - I was about to loose my streak today.
+- I will go watch solo levling now see you tomorrow.
