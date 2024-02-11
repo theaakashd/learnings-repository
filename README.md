@@ -144,3 +144,4 @@ try to done it.
 ### Day : 02-11-2024
 - Good evening to myself.
 - My love didn't texted yet i am a little sad right now.
+- I will try to focus on my study now i need a job.
