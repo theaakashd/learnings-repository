@@ -147,3 +147,4 @@ try to done it.
 - I will try to focus on my study now i need a job.
 ### Day : 02-12-2024
 - Why the days are so boring man.
+- I am loosing all my focus i don't know why.
