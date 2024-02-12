@@ -145,3 +145,5 @@ try to done it.
 - Good evening to myself.
 - My love didn't texted yet i am a little sad right now.
 - I will try to focus on my study now i need a job.
+### Day : 02-12-2024
+- Why the days are so boring man.
