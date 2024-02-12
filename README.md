@@ -148,3 +148,4 @@ try to done it.
 ### Day : 02-12-2024
 - Why the days are so boring man.
 - I am loosing all my focus i don't know why.
+- I badly need some partner to study.
