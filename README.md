@@ -151,3 +151,4 @@ try to done it.
 - I badly need some partner to study.
 ### Day : 02-13-2024
 - Good night i guess haha new day is started.
+- well let's play some genshin first.
