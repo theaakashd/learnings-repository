@@ -149,3 +149,5 @@ try to done it.
 - Why the days are so boring man.
 - I am loosing all my focus i don't know why.
 - I badly need some partner to study.
+### Day : 02-13-2024
+- Good night i guess haha new day is started.
