@@ -154,4 +154,5 @@ try to done it.
 - well let's play some genshin first.
 ### Day : 02-14-2024
 - Good evening to myself.
-- puja tha ghar pe to wahi time chala gaya ajj.
+- Puja tha ghar pe to wahi time chala gaya ajj.
+- I am going to play genshin now.
