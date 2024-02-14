@@ -152,3 +152,5 @@ try to done it.
 ### Day : 02-13-2024
 - Good night i guess haha new day is started.
 - well let's play some genshin first.
+### Day : 02-14-2024
+- Good evening to myself.
