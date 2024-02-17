@@ -1,3 +1,3 @@
 # proxyforgithub
 
-This repo is for my proxy if i am not able to work somedays..
+This repo is for my proxy if I am not able to work somedays...
