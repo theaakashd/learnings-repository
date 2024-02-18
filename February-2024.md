@@ -89,3 +89,4 @@
 
 -   Good evening to myself!.
 -   Let's work on the blog project.
+-   Login and Register pages are almost done.
