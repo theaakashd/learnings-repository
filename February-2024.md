@@ -90,3 +90,4 @@
 -   Good evening to myself!.
 -   Let's work on the blog project.
 -   Login and Register pages are almost done.
+-   Done with login, register, navbar & footer part.
