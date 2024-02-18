@@ -88,3 +88,4 @@
 ### Day : 02-18-2024
 
 -   Good evening to myself!.
+-   Let's work on the blog project.
