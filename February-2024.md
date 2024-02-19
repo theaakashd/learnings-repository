@@ -95,3 +95,4 @@
 ### Day : 02-19-2024
 
 -   Good morning to everyone!.
+-   Starting the blog project.
