@@ -91,3 +91,7 @@
 -   Let's work on the blog project.
 -   Login and Register pages are almost done.
 -   Done with login, register, navbar & footer part.
+
+### Day : 02-19-2024
+
+-   Good morning to everyone!.
