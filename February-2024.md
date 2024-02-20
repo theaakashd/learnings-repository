@@ -100,3 +100,4 @@
 ### Day : 02-20-2024
 
 -   20 days are already passed.
+-   In whole day this is when i am doing coding no consistancy yet all.
