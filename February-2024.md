@@ -96,3 +96,7 @@
 
 -   Good morning to everyone!.
 -   Starting the blog project.
+
+### Day : 02-20-2024
+
+-   20 days are already passed.
