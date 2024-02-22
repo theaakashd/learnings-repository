@@ -107,3 +107,4 @@
 
 -   Good morning everyone!.
 -   Yesterday i forget to commit my proxy.
+-   Starting my blog project now.
