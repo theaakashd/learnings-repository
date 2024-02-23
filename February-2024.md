@@ -112,3 +112,4 @@
 ### Day : 02-23-2024
 
 -   Good morning everyone!.
+-   Playing genshin right now.
