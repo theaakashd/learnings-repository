@@ -117,3 +117,4 @@
 ### Day : 02-24-2024
 
 -   Good night everyone!.
+-   Let's finish the blog project tomorrow okay!.
