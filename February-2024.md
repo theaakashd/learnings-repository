@@ -123,3 +123,4 @@
 
 -   Good afternoon everyone!.
 -   I will work on the blog project now.
+-   Login and register is done.
