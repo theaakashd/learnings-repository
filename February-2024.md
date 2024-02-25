@@ -122,3 +122,4 @@
 ### Day : 02-25-2024
 
 -   Good afternoon everyone!.
+-   I will work on the blog project now.
