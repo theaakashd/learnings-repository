@@ -130,3 +130,4 @@
 
 -   Good evening everyone!.
 -   Let's start the work on the blog project.
+-   Done for today only few things left on the blog project.
