@@ -129,3 +129,4 @@
 ### Day : 02-26-2024
 
 -   Good evening everyone!.
+-   Let's start the work on the blog project.
