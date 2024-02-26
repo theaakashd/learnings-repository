@@ -125,3 +125,7 @@
 -   I will work on the blog project now.
 -   Login and register is done.
 -   connected to mysql local database and also added cookie into website.
+
+### Day : 02-26-2024
+
+-   Good evening everyone!.
