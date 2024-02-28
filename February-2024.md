@@ -142,3 +142,4 @@
 
 -   Good morning my loved once.
 -   About to start the day.
+-   Fixed the bugs in the blog project.
