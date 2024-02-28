@@ -133,5 +133,11 @@
 -   Done for today only few things left on the blog project.
 
 ### Day : 02-27-2024
--  Fuck about to forget
-- Bye good night 
+
+-   Good night.
+-   Almost missed my commit.
+-   See you tomorrow then.
+
+### Day : 02-28-2024
+
+-   Good morning my loved once.
