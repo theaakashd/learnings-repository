@@ -27,3 +27,4 @@
 
 -   Good morning to all.
 -   Not working on NoteSpace today.
+-   Started harkirat 0-100x dev today.
