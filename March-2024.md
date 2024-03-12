@@ -52,3 +52,8 @@
 ### Day : 03-11-2024
 
 -   was working on my projects.
+
+### Day : 03-12-2024
+
+-   Good evening!.
+-   The project is about to end.
