@@ -62,3 +62,4 @@
 
 -   Good morning to myself.
 -   Hopefully everything goes right today.
+-   Will play genshin for sometime first.
