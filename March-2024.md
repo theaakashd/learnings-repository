@@ -63,3 +63,13 @@
 -   Good morning to myself.
 -   Hopefully everything goes right today.
 -   Will play genshin for sometime first.
+
+### Day : 03-14-2024
+
+-   Good night.
+-   It seems i forget to commit yesterday.
+
+### Day : 03-15-2024
+
+-   Good night.
+-   It seems i forget to commit yesterday.
