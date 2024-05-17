@@ -113,13 +113,21 @@ Each variable should be given a unique name (identifier).
 
 ```java
 // Variables
-String name = "Akash";
-int age = 24;
-String friendName = "meow";
-boolean bestfriends = true;
-Boolean isNull = null;
-int year = 2023;
-double temp = 22.4;
+// Primitive Data Types
+String name = "Alice";
+char initial = 'A';
+byte ageInMonths = 12;  		// Use byte for small whole number ranges
+short year = 2024;        		// Use short for whole numbers within a limited range
+int population = 1000000;  		// Use int for most whole number uses
+long worldPopulation = 8000000000L;  	// Use long for very large whole numbers (add L suffix)
+float pi = 3.14159f;       		// Use float for single-precision decimals (add f suffix)
+double gpa = 3.987;        		// Use double for double-precision decimals
+boolean isSunny = true;
+
+
+// Non-Primitive Data Types
+String[] fruits = {"apple", "banana", "orange"};  	// Array of strings
+int[][] matrix = {{1, 2, 3}, {4, 5, 6}};           	// 2D array of integers
 ```
 
 <br>
