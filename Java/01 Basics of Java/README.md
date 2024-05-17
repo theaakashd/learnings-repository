@@ -143,11 +143,15 @@ types occupy different sizes of memory.
 
 There are 2 types of Data Types :
 
--   **Primitive Data types** : to store simple values
--   **Non-Primitive Data types** : to store complex values
+| **Primitive Data Types** | **Non Primitive Data Types** |
+| ------------------------ | ---------------------------- |
+| The data types which are already present in JAVA and we don't have to create them to use. | The data types we have to create manually to use them |
+| To store simple values | To store complex values |
+| They have fixed size | They depends on the amount of data we store |
+| ex: byte, short, int, long, char, float, double, boolean | ex: String, Array, Object, class, Interface |
+
 
 **Primitive Data Types**
-These are the date types of fixed size.
 
 | Data Type | Meaning                               | Size (in Bytes) | Range                                                  |
 | --------- | ------------------------------------- | --------------- | ------------------------------------------------------ |
