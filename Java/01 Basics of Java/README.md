@@ -114,7 +114,6 @@ Each variable should be given a unique name (identifier).
 ```java
 // Variables
 // Primitive Data Types
-String name = "Alice";
 char initial = 'A';
 byte ageInMonths = 12;  		// Use byte for small whole number ranges
 short year = 2024;        		// Use short for whole numbers within a limited range
@@ -126,6 +125,7 @@ boolean isSunny = true;
 
 
 // Non-Primitive Data Types
+String name = "Alice";
 String[] fruits = {"apple", "banana", "orange"};  	// Array of strings
 int[][] matrix = {{1, 2, 3}, {4, 5, 6}};           	// 2D array of integers
 ```
