@@ -156,7 +156,7 @@ There are 2 types of Data Types :
 | Data Type | Meaning                               | Size (in Bytes) | Range                                                  |
 | --------- | ------------------------------------- | --------------- | ------------------------------------------------------ |
 | byte      | 2’s complement integer                | 1               | -128 to 127                                            |
-| short     | 2’s complement integer                | 2               | -32k to 32k                                            |
+| short     | 2’s complement integer                | 2               | -32768 to 32767                                            |
 | int       | integer numbers                       | 4               | -2B to 2B                                              |
 | long      | 2’s complement integer (large values) | 8               | -9,223,372,036854,775,808 to 9,223,372,036,854,775,807 |
 | float     | Floating-point                        | 4               | Upto 7 decimal digits                                  |
