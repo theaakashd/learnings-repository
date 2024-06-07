@@ -113,13 +113,21 @@ Each variable should be given a unique name (identifier).
 
 ```java
 // Variables
-String name = "Akash";
-int age = 24;
-String friendName = "meow";
-boolean bestfriends = true;
-Boolean isNull = null;
-int year = 2023;
-double temp = 22.4;
+// Primitive Data Types
+char initial = 'A';
+byte ageInMonths = 12;  		// Use byte for small whole number ranges
+short year = 2024;        		// Use short for whole numbers within a limited range
+int population = 1000000;  		// Use int for most whole number uses
+long worldPopulation = 8000000000L;  	// Use long for very large whole numbers (add L suffix)
+float pi = 3.14159f;       		// Use float for single-precision decimals (add f suffix)
+double gpa = 3.987;        		// Use double for double-precision decimals
+boolean isSunny = true;
+
+
+// Non-Primitive Data Types
+String name = "Alice";
+String[] fruits = {"apple", "banana", "orange"};  	// Array of strings
+int[][] matrix = {{1, 2, 3}, {4, 5, 6}};           	// 2D array of integers
 ```
 
 <br>
@@ -135,16 +143,20 @@ types occupy different sizes of memory.
 
 There are 2 types of Data Types :
 
--   **Primitive Data types** : to store simple values
--   **Non-Primitive Data types** : to store complex values
+| **Primitive Data Types** | **Non Primitive Data Types** |
+| ------------------------ | ---------------------------- |
+| The data types which are already present in JAVA and we don't have to create them to use. | The data types we have to create manually to use them |
+| To store simple values | To store complex values |
+| They have fixed size | They depends on the amount of data we store |
+| ex: byte, short, int, long, char, float, double, boolean | ex: String, Array, Object, class, Interface |
+
 
 **Primitive Data Types**
-These are the date types of fixed size.
 
 | Data Type | Meaning                               | Size (in Bytes) | Range                                                  |
 | --------- | ------------------------------------- | --------------- | ------------------------------------------------------ |
 | byte      | 2’s complement integer                | 1               | -128 to 127                                            |
-| short     | 2’s complement integer                | 2               | -32k to 32k                                            |
+| short     | 2’s complement integer                | 2               | -32768 to 32767                                            |
 | int       | integer numbers                       | 4               | -2B to 2B                                              |
 | long      | 2’s complement integer (large values) | 8               | -9,223,372,036854,775,808 to 9,223,372,036,854,775,807 |
 | float     | Floating-point                        | 4               | Upto 7 decimal digits                                  |
