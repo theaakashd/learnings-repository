@@ -1,0 +1,8 @@
+# variable = a reusable container for storing a value
+# a variable behaves as if it were the value it contains.
+
+# Data types
+- INTEGER: 1,2,4,6
+- FLOAT: 1.0, 12.53
+- STRING : "Akash", "Liza"
+- BOOLEAN : True, False

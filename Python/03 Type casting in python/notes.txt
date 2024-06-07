@@ -1,0 +1,11 @@
+# Type casting
+The process of converting a value of one data type to another.
+
+(string, integer, float, boolean)
+
+Explicit: Manually converting the data type of the value
+vs
+Implicit: When the data types of the value converts automatically.
+
+- When converting a number to boolean if it's anything but not 0
+ then it will always be true.
