@@ -4,9 +4,9 @@ Welcome to my personal learning repository! Here, I organize my coding journey. 
 
 ### Topics
 
-| No. | Topics                                                                                                                |
-| --- | --------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Git & GitHub](https://github.com/theaakashd/learnings-repository/tree/main/Git%20%26%20GitHub)                       |
-| 2   | [Java](https://github.com/theaakashd/learnings-repository/tree/main/Java)                                             |
-| 3   | [Python for Data Science](https://github.com/theaakashd/learnings-repository/tree/main/Python%20for%20Data%20Science) |
-| 4   | [Python](/Python/)                                                                                                    |
+| No. | Topics                                                     |
+| --- | ---------------------------------------------------------- |
+| 1   | [Git & GitHub](/Git%20&%20GitHub/)                         |
+| 2   | [Java](/Java/)                                             |
+| 3   | [Python for Data Science](/Python%20for%20Data%20Science/) |
+| 4   | [Python](/Python/)                                         |
