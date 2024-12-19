@@ -14,7 +14,7 @@
 -   [x] Your first program
 -   [x] Types
 -   [x] Expressions and Variables
--   [] Strings Operations
+-   [x] Strings Operations
 
 **Module 2 - Python Data Structures**
 

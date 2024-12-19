@@ -70,3 +70,22 @@ print("Akash \\ Debnath") // Akash \ Debnath
 -   back slash n `\n` represent new line.
 -   back slash t `\t` represent a tab.
 -   `\\` if you want a back slash to show in your string.
+
+#### String Methods
+
+-   Methods are basically functions.
+-   String Methods are which we can only apply on strings.
+-   `upper()` method which converts lower case strings to upper case.
+-   `replace()` method replaces a segment of the string.
+-   `find()` This method is used for finding the index of substring. you have to pass a substring argument which you want to find eg. `name.find("aka")` the output is the first index of the sequence.
+-   If the substring is not in the string the output is `-1`
+
+<br>
+
+```python
+name = "akash debnath"
+print(name.upper())
+print(name.replace("akash", "Janet"))
+print(name.find("at")) // 10
+print(name.find("ata")) // -1
+```
