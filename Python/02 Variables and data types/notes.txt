@@ -4,5 +4,5 @@
 # Data types
 - INTEGER: 1,2,4,6
 - FLOAT: 1.0, 12.53
-- STRING : "Akash", "Liza"
+- STRING : "Akash", "Elza"
 - BOOLEAN : True, False
