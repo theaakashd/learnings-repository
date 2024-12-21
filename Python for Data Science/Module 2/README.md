@@ -1,16 +1,16 @@
-## Python Data Structures
+# Python Data Structures
 
 | No  | Topics                                  |
 | --- | --------------------------------------- |
 | 1   | [Lists and Tuples](#1-lists-and-tuples) |
-| 2   | Sets                                    |
+| 2   | [Sets](#2-sets)                         |
 | 3   | Dictionaries                            |
 
-#### 1. Lists and Tuples
+## 1. Lists and Tuples
 
 -   These are called `Compound Data Types`
 
-## **Tuples**
+### **Tuples**
 
 -   Tuples are an ordered sequence
 -   Here is a Tuple Ratings
@@ -61,7 +61,7 @@ print(sorted_tuple)
 [2, 5, 6, 6, 8, 9, 9, 10, 10]
 ```
 
-## **Nesting**
+### **Nesting**
 
 -   Nesting is more complex data structure
 -   It's like having tuples inside a tuple
@@ -78,7 +78,7 @@ disco
 2
 ```
 
-## **Lists**
+### **Lists**
 
 -   Lists are also ordered sequence
 -   Here is a List `L`
@@ -170,4 +170,40 @@ B: [10, 5, 6]
 # help(object or data type name)
 help(tuple)
 help(list)
+```
+
+### 2. **Sets**
+
+-   **Sets are a type of collection** <br>
+    This means that like lists and tuples you can input different Python types.
+-   **Unlike lists and tuples they are unordered** <br>
+    This means sets do not record element position
+-   **Sets only have unique elements** <br>
+    This means there is only one of a particular element in a set
+
+example of a set
+
+```python
+# as you can see there are duplicate items in this set
+set1 = {"pop", "rock", "soul", "pop", "rock"}
+
+# when the set get created this is how it looks
+# no duplicates
+set1 = {"pop", "rock", "soul"}
+```
+
+-   You can convert a `LIST` to `SET` using function `set()` this is called type casting.
+-   You give `LIST` as a input to `SET` which converts it into set and returns it.
+
+example:
+
+```python
+List = [1,2,3,4,5,1,2,1,1,4,5]
+ConvertedList = set(List)
+print(ConvertedList)
+print(type(ConvertedList))
+
+# output:
+{1, 2, 3, 4, 5}
+<class 'set'>
 ```
