@@ -12,6 +12,8 @@
 
 ### **Tuples**
 
+---
+
 -   Tuples are an ordered sequence
 -   Here is a Tuple Ratings
 -   Tuples are written as comma-separated elements within parentheses
@@ -63,6 +65,8 @@ print(sorted_tuple)
 
 ### **Nesting**
 
+---
+
 -   Nesting is more complex data structure
 -   It's like having tuples inside a tuple
 
@@ -79,6 +83,8 @@ disco
 ```
 
 ### **Lists**
+
+---
 
 -   Lists are also ordered sequence
 -   Here is a List `L`
@@ -174,6 +180,8 @@ help(list)
 
 ### 2. **Sets**
 
+---
+
 -   **Sets are a type of collection** <br>
     This means that like lists and tuples you can input different Python types.
 -   **Unlike lists and tuples they are unordered** <br>
@@ -206,4 +214,45 @@ print(type(ConvertedList))
 # output:
 {1, 2, 3, 4, 5}
 <class 'set'>
+```
+
+## **Set Operations**
+
+-   We will use `Venn` diagram also.
+-   A `Venn` diagram is a widely used diagram style that shows the logical relation between sets.
+
+```python
+A = {1,2,3,4,5}
+A.add(6) # To add an item to the set A
+A.remove(6) # To remove the item from set A
+is_in_set = 4 in A # True
+is_in_set = 6 in A # False
+```
+
+-   If we add same item twich nothing will happened. Because sets are unique.
+
+-   In python we use `ampersand(&)` to find the union of two sets.
+    <br>
+
+example 1:
+
+![A union B](image.png)
+
+```python
+A = {1,2,3,4,5}
+B = {4,5,6,7,8}
+
+C = A & B # {4, 5}
+D = A.union(B) # {1,2,3,4,5,6,7,8}
+```
+
+example 2:
+
+![subset](image-1.png)
+
+```python
+A = {1,2,3,4,5}
+B = {1,2,3}
+
+result = B.issubset(A) # True
 ```
